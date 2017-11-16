@@ -1,0 +1,15 @@
+# Build and Release Folders
+
+# Configuration Folders
+.config/
+.vscode/
+
+# Configuration files
+*.cfg.secret
+*.cfg
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
